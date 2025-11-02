@@ -6,8 +6,13 @@
   ==================================================================
 -->
 
-## 11/2/2025 - Research  on aerodynamics   
+## 11/2/2025 4 PM - Research  on aerodynamics   
 
 I have just started doing research onto how the aerodynamics of the plane will work I am trying find out what the optimal size and material for it is aswell. ![IMG_20251102_165450881](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NzgxNiwicHVyIjoiYmxvYl9pZCJ9fQ==--25d90215e8a9f5f64b13d17e5cdd4f9457997d1f/IMG_20251102_165450881.jpg)
+  
+
+## 11/2/2025 8 PM - Decided on goal for maximum flight time under 1m  
+
+After much research I have decided that the optimal wingspan should be under 1 meter. This combines ease of transport with the efficiency of a larger plane. I also started designing the air foil. ![17621139089778286413797148217161](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6Nzg3NSwicHVyIjoiYmxvYl9pZCJ9fQ==--f02dc3ca65474a5926e95390ceb6d4935d785b5b/17621139089778286413797148217161.jpg)
   
 
