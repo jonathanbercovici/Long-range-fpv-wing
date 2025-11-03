@@ -16,3 +16,11 @@ I have just started doing research onto how the aerodynamics of the plane will w
 After much research I have decided that the optimal wingspan should be under 1 meter. This combines ease of transport with the efficiency of a larger plane. I also started designing the air foil. ![17621139089778286413797148217161](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6Nzg3NSwicHVyIjoiYmxvYl9pZCJ9fQ==--f02dc3ca65474a5926e95390ceb6d4935d785b5b/17621139089778286413797148217161.jpg)
   
 
+## 11/3/2025 - Decided on the naca 2412 airfoil   
+
+After extensive research and testing I have decided to use the naca 2412 airfoil I chose it because it is very efficient and because it will not be to hard to hot wire out off epp foam![IMG_20251103_095426886](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODAxMCwicHVyIjoiYmxvYl9pZCJ9fQ==--6b6ab09ebfd94f957e45dd9403978924a1ecfcba/IMG_20251103_095426886.jpg)![IMG_20251103_095333241](/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODAxMSwicHVyIjoiYmxvYl9pZCJ9fQ==--c396780d8c37113527ad17d85ed67368c2f83ef8/IMG_20251103_095333241.jpg)
+
+
+
+  
+
