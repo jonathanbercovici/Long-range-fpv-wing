@@ -24,3 +24,8 @@ After extensive research and testing I have decided to use the naca 2412 airfoil
 After looking into more details at the aerodynamics I decided that a twin boom be a lot more efficient than the tail plane I was originally thinking about. It is more efficient because  there is less drag and weight because the body doesnt have to be that. Also now I am slowly beginning to understand cad and have started designing the actual body. ![17622876832747852634861935741432](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODM4MSwicHVyIjoiYmxvYl9pZCJ9fQ==--68eaa89ef077559632b9486a5e946a339ce00247/17622876832747852634861935741432.jpg)
   
 
+## 11/5/2025 - Finalising body design   
+
+After much struggle trying to work out how to use ondhape I have finally finished my body design. It took. So much longer than I though because Cad is so hard. ![IMG_20251105_163134621](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODY3MywicHVyIjoiYmxvYl9pZCJ9fQ==--b70a82212f15fe62d2950bd4c6c15c841097ce0f/IMG_20251105_163134621.jpg)
+  
+
