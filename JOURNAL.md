@@ -29,3 +29,8 @@ After looking into more details at the aerodynamics I decided that a twin boom b
 After much struggle trying to work out how to use ondhape I have finally finished my body design. It took. So much longer than I though because Cad is so hard. ![IMG_20251105_163134621](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODY3MywicHVyIjoiYmxvYl9pZCJ9fQ==--b70a82212f15fe62d2950bd4c6c15c841097ce0f/IMG_20251105_163134621.jpg)
   
 
+## 11/6/2025 - Made profile for foam wirecut wing.   
+
+After thinking long and hard on how to save weight I decided I would hot wire cut the wings out of epp foam using the profile I made. This means I have to create a hot wire cutter. I may also look into hot wire cutting the body out of ![IMG_20251106_205927671](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODk3OCwicHVyIjoiYmxvYl9pZCJ9fQ==--42df4e77390cc2694eeda43d5d0b19fa75d70a40/IMG_20251106_205927671.jpg)
+epp.   
+
