@@ -34,3 +34,10 @@ After much struggle trying to work out how to use ondhape I have finally finishe
 After thinking long and hard on how to save weight I decided I would hot wire cut the wings out of epp foam using the profile I made. This means I have to create a hot wire cutter. I may also look into hot wire cutting the body out of ![IMG_20251106_205927671](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODk3OCwicHVyIjoiYmxvYl9pZCJ9fQ==--42df4e77390cc2694eeda43d5d0b19fa75d70a40/IMG_20251106_205927671.jpg)
 epp.   
 
+## 11/8/2025 - Design the hot wire cutter  
+
+
+![IMG_20251108_201038671](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTU1OCwicHVyIjoiYmxvYl9pZCJ9fQ==--c37a8f9ec6d11e2905b24bbc96b34d7e16b8cdb8/IMG_20251108_201038671.jpg)
+I designed the hot wire cutter to be very easy to either 3d print cut out of wood make with plastic tubes. For the power supply I am planning to use the same batteries as on the plane. ![IMG_20251108_201306601](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTU1NiwicHVyIjoiYmxvYl9pZCJ9fQ==--8dfb4e281339e5677f29ab5f49bfb6c3ae63ed8a/IMG_20251108_201306601.jpg)
+  
+
