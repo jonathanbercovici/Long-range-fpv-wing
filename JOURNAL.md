@@ -41,3 +41,8 @@ epp.
 I designed the hot wire cutter to be very easy to either 3d print cut out of wood make with plastic tubes. For the power supply I am planning to use the same batteries as on the plane. ![IMG_20251108_201306601](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTU1NiwicHVyIjoiYmxvYl9pZCJ9fQ==--8dfb4e281339e5677f29ab5f49bfb6c3ae63ed8a/IMG_20251108_201306601.jpg)
   
 
+## 11/9/2025 - Finished body  
+
+After many hours of running aerodynamic simulations I finally decided on my design. Funnily I decided to go back to a vtail because of the added benefit of having a much larger storage area for battery and compents. I also found a nf out that putting an airfoil on a stabiliser makes it much more efficient so I added a naca 0009 airfoil to it. Moreover I decide on a 2216 moter the powerthe whole thing. Now all I have to do is make the foam cutouts. ![IMG_20251109_203213994](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTg1OCwicHVyIjoiYmxvYl9pZCJ9fQ==--3ac62c45437b48b5d017e2e12f7448f83df1830f/IMG_20251109_203213994.jpg)
+  
+
